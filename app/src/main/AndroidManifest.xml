@@ -6,6 +6,7 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
+        android:name=".App"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -21,7 +22,11 @@
         </activity>
         <activity android:name=".ui.PlayVideoActivity" />
         <activity android:name=".ui.VideoViewActivity" />
-        <activity android:name=".ui.JiecaoVideoActivity"></activity>
+        <activity android:name=".ui.JiecaoVideoActivity" />
+        <activity android:name=".ui.AnimationActivity" />
+        <activity android:name=".ui.WebViewActivity" />
+        <activity android:name=".ui.FactoryActivity" />
+        <activity android:name=".ui.activity.FrombulationActivity" />
     </application>
 
 </manifest>

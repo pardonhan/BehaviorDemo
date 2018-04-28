@@ -1,0 +1,13 @@
+<a>院内指引</a>
+<a href="http://yuyue.youzainet.com/guahao/dist/#/department">预约挂号</a>
+<a href="http://yuyue.youzainet.com/guahao/dist/#/current">挂号记录</a>
+<a href="http://yuyue.youzainet.com/guahao/dist/#/information">个人信息</a>
+<a href="http://yuyue.youzainet.com/guahao/dist/#/payProject">就诊单</a>
+<a href="http://yuyue.youzainet.com/guahao/dist/#/billDetails">费用明细</a>
+<a href="http://yuyue.youzainet.com/guahao/dist/#/inspectionReport">查验报告</a>
+<a href="http://yuyue.youzainet.com/guahao/dist/#/zhuyuan">住院</a>
+<a href="http://yuyue.youzainet.com/guahao/dist/#/adress">医院位置</a>
+<a href="http://yuyue.youzainet.com/guahao/dist/#/healthGuide">健康知识</a>
+<a href="http://yuyue.youzainet.com/guahao/dist/#/introduction">医院介绍</a>
+<a href="http://yuyue.youzainet.com/guahao/dist/#/evaluation">就医评价</a>
+<a href="http://yuyue.youzainet.com/guahao/dist/#/guide">使用指南</a>
